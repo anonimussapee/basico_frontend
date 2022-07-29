@@ -34,6 +34,7 @@ p:hover{
 div p:nth-child(1){
     background-color: rgb(13, 200, 50);
 }
+/*pseudoelementos*/
 p::first-letter{
     color: red;
 }
